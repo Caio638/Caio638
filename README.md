@@ -4,12 +4,11 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/caio-oliveira-souza-693a09233?trk=people-guest_people_search-card)
-
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio638&layout=compact)](https://github.com/Caio638/github-readme-stats)
-
-
 ![Caio GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio638&show_icons=true&theme=tokyonight)
-
+</div >
+  
 ### Tecnologias que domino
 
 <div style="display: inline_block"><br/>
