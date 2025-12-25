@@ -4,7 +4,7 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiool/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiocontad@gmail.com)
+[![Email](https://img.shields.io/badge/Email-caiocontad%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiocontad@gmail.com)
 
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
