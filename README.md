@@ -13,28 +13,28 @@
 
 <div style="display: inline_block"><br/> 
 <p align="center">
-  <div style="display:inline-block; text-align:center; margin:15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="60" height="60"/><br/>
+  <div style="display:inline-block; text-align:center; margin:12px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="50" height="50"/><br/>
     Excel
   </div>
-  <div style="display:inline-block; text-align:center; margin:15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" height="60"/><br/>
+  <div style="display:inline-block; text-align:center; margin:12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/><br/>
     MySQL
   </div>
-  <div style="display:inline-block; text-align:center; margin:15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="60" height="60"/><br/>
+  <div style="display:inline-block; text-align:center; margin:12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50"/><br/>
     SQLServer
   </div>
-  <div style="display:inline-block; text-align:center; margin:15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60"/><br/>
+  <div style="display:inline-block; text-align:center; margin:12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/><br/>
     PostgreSQL
   </div>
-  <div style="display:inline-block; text-align:center; margin:15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/><br/>
+  <div style="display:inline-block; text-align:center; margin:12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br/>
     Python
   </div>
-  <div style="display:inline-block; text-align:center; margin:15px;">
-    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/PowerBI.svg" width="60" height="60"/><br/>
+  <div style="display:inline-block; text-align:center; margin:12px;">
+    <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/PowerBI.png" width="50" height="50"/><br/>
     Power BI
   </div>
 </p>
