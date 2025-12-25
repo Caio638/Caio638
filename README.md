@@ -7,10 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiocontad@gmail.com)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Caio638&theme=onedark&no-frame=true)](https://github.com/Caio638)
-
-![GitHub followers](https://img.shields.io/github/followers/Caio638?label=Seguidores&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Caio638?label=Stars&style=for-the-badge)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio638&layout=compact)
 
 <div style="display: inline_block"><br/> 
 <p align="left">
