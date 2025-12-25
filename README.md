@@ -6,9 +6,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiool/)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiocontad@gmail.com)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Caio638&theme=onedark&no-frame=true)](https://github.com/Caio638)
+
 ![GitHub followers](https://img.shields.io/github/followers/Caio638?label=Seguidores&style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/Caio638?label=Stars&style=for-the-badge)
-![GitHub repos](https://img.shields.io/badge/Repositórios-Públicos-blue?style=for-the-badge)
 
 <div style="display: inline_block"><br/> 
 <p align="left">
